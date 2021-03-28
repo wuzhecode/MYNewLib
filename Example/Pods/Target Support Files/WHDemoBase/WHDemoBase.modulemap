@@ -1,0 +1,6 @@
+framework module WHDemoBase {
+  umbrella header "WHDemoBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

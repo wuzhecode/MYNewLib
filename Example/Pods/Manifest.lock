@@ -1,0 +1,16 @@
+PODS:
+  - WHDemoBase (0.1.0)
+
+DEPENDENCIES:
+  - WHDemoBase (from `../`)
+
+EXTERNAL SOURCES:
+  WHDemoBase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WHDemoBase: 7386119bc5d3866212edd7b47c7b8c76d45238e9
+
+PODFILE CHECKSUM: e3705bc56e1d9910f52c823cea9f04c95bb076d6
+
+COCOAPODS: 1.10.1
