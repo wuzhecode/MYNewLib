@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WHDemoBase_Example' do
+  pod 'WHDemoBase', :path => '../'
+
+  target 'WHDemoBase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
